@@ -1,6 +1,6 @@
-## About Me: Sridevi Melnatami Prasanna
+### About Me: Sridevi Melnatami Prasanna
 ### Team Lead @Honeywell from 2002 till 2012.
-### Performed various engineering duties, with increasing responsibilities, starting as an individual contributor, Team Leader and Staff Member of Software engineering at Honeywell. 
+Performed various engineering duties, with increasing responsibilities, starting as an individual contributor, test engineer, Team Leader at Honeywell. 
 
 
 
