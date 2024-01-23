@@ -1,5 +1,6 @@
 ### About Me: Sridevi Melnatami Prasanna
 ### Team Lead @Honeywell from 2002 till 2012.
+![Alt text](Logos/Honeywell-Logo-768x432.png)
 Performed various engineering duties, with increasing responsibilities, starting as an individual contributor, test engineer, Team Leader at Honeywell. 
 
 
