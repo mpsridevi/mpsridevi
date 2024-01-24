@@ -4,7 +4,7 @@
 
 ![Alt text](Logos/PerScholas_TekSystem.png)
 
-Successfully completed Data Engineering course along with a 12 session professional development coach.
+Successfully completed Data Engineering course along with a 12 session professional development coaching.
 During the course, I underwent extensive training in Python programming, GIT version control, SQL, Linux. Technologies used were MySQL work bench, Visual Source code, Tableau, Jupyter Notebooks, RestAPI, Selenium, Apache Spark, ETL processes and Big data.
 
 ### Generation USA - 2021
