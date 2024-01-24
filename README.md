@@ -1,6 +1,8 @@
 ### About Me: Sridevi Melnatami Prasanna
 
-Passionate about Automation testing with writing the scripts and create automation environments for repeated tests. My goal is to automate as much of the testing effort as possible with the minuimum set of code. Working on Python scripts with Selenium model projects to test the web applications. Being detail oriented helps me to isolate the problems and find ways to improve them. 
+Passionate about Automation testing with writing the scripts and create automation environments for repeated tests. My goal is to develop hybrid automation frameworks to reduce the manual testing. 
+
+Working on Python scripts with Selenium model projects to test the web applications. Being detail oriented helps me to isolate the problems and find ways to improve them. 
 
 ### Data Engineering Course - 2023
 
