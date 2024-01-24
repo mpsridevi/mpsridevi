@@ -1,11 +1,17 @@
 ### About Me: Sridevi Melnatami Prasanna
 
-### Data Engineering Course 2023
+### Data Engineering Course - 2023
 
 ![Alt text](Logos/PerScholas_TekSystem.png)
 
-Successfully completed Data Engineering course along with a 12 session with a professional development coach.
-During the course, I underwent extensive training in Python programming, GIT version control, SQL, Linux. Technologies used were MySQL work bench, Visual Source code, Tableau, Jupyter Notebooks, RestAPI, Selenium, ETL processes and Big data.
+Successfully completed Data Engineering course along with a 12 session professional development coach.
+During the course, I underwent extensive training in Python programming, GIT version control, SQL, Linux. Technologies used were MySQL work bench, Visual Source code, Tableau, Jupyter Notebooks, RestAPI, Selenium, Apache Spark, ETL processes and Big data.
+
+### Generation USA - 2021
+
+Junior Cloud Practitioner program with soft skills training of Behavioral skills and growth mindset. The training helped me to get certified in AWS Certified Cloud Practitioner. 
+
+![Alt text](Logos/awscert.png)
 
 ### Team Lead @Honeywell from 2002 till 2012.
 
