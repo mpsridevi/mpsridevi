@@ -35,7 +35,7 @@ Behavioral skills: Strong verbal and written communication skills, Detail orient
 Significant Achievements:
 - Recipient of the Honeywell BRAVO Award (for exemplifying workplace behavior that differentiates levels of performance and exhibit Honeywell Behaviors at a role model level and develop them personally and in others thus driving personal and business success).
 - Six Sigma Green Belt certified.
-- Recipient of the various Honeywell Awards like Team Excellence Award, Team Achievement Award, IP Award etc. Check my achievements and trainings under Professional summary folder. (The awards contains my old name Sridevi Kuduva Subramanian)
+- Recipient of the various Honeywell Awards like Team Excellence Award, Team Achievement Award, IP Award etc. Check my achievements and trainings under Awards and Trainings folder. (The Honeywell awards contains my old name Sridevi Kuduva Subramanian)
 
 <!--
 **mpsridevi/mpsridevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
